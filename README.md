@@ -6,4 +6,4 @@
 💭 Currently learning about mobile development and project management!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Magdeline's github stats](https://github-readme-stats.vercel.app/api?username=xsol05&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=theIanCalica&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
