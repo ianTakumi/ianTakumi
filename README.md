@@ -17,7 +17,9 @@
 [![Introduction to Cybersecurity Tools and Cyberattacks V3](https://github.com/user-attachments/assets/46344fef-4122-484f-9cca-35dc00c1ddd7)](https://www.credly.com/badges/3e3a17b8-febe-4388-ad06-ceb20ee56f24/public_url)
 [![Introduction to Cybersecurity](https://github.com/user-attachments/assets/bec51608-a391-4311-8243-d0b42ca20f47)](https://www.credly.com/badges/d1aec1e5-6184-4d9b-beea-ca1bc2652f43/public_url)
 [![Google AI Essentials](https://github.com/user-attachments/assets/473034e9-0af5-49a7-a950-734f4ebb0c34)](https://www.credly.com/badges/fa9573bb-f7c0-4462-b6b1-87dbaa500693/public_url)
-[![Networking Basics](https://github.com/user-attachments/assets/3ba93ac1-d448-4432-85ec-e6b575a0902c)](https://www.credly.com/badges/154b7ee8-d48b-44f1-a4eb-e81995505088/public_url)  
+[![Networking Basics](https://github.com/user-attachments/assets/3ba93ac1-d448-4432-85ec-e6b575a0902c)](https://www.credly.com/badges/154b7ee8-d48b-44f1-a4eb-e81995505088/public_url)
+[![AWS Educate Introduction to Cloud 101](https://github.com/user-attachments/assets/372c5c4b-b3c7-4e9d-8efa-b295f19d469f)](https://www.credly.com/badges/f3d7d81b-4a39-4f78-83ef-01f97d1f0ccb/public_url)
+[![AWS Educate Getting Started with Databases](https://github.com/user-attachments/assets/9e27385f-2720-45a0-8a57-67c4e6397a69)](https://www.credly.com/badges/62f83d77-2efa-4474-9619-9f52e2efbb03/public_url)
 [![Computer Hardware Basics](https://github.com/user-attachments/assets/9dc65bde-6832-4b84-ad60-3f97db907439)](https://www.credly.com/badges/01d5bf1c-5544-417c-a333-068f5d43145d/public_url)
 [![Operating Systems Basic](https://github.com/user-attachments/assets/3ff786b8-95b7-4ace-8369-25017129a8a2)](https://www.credly.com/badges/0246e8cd-f91f-4111-8a00-6c7abb46ef5c/public_url)
 
