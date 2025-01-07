@@ -5,15 +5,6 @@
 👨‍🎓 Studied Computer Science at the Technological University of the Philippines  
 💭 Currently learning about mobile development and project management!
 
-## ⏳ Personal Belief
-
-<div align="center">
-  <blockquote>
-    <p>It's not how much time you have, It's how you use it.</p>
-    <footer>— Ekko</footer>
-  </blockquote>
-  <img src="https://github.com/user-attachments/assets/39f05af0-aeb2-425b-994c-a2e4d174e696" alt="howdy-salute">
-</div>
 
 ## 📈 GitHub Stats
 [![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianTakumi&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
