@@ -1,7 +1,7 @@
 ### Hi, I'm Ian!
 
 👨‍💻 BSIT student sharing about my journey and learnings in tech  
-👨‍🎓 Studied Computer Science at the Technological University of the Philippines  
+👨‍🎓 Studied Bachelor of Science in Information Technology at the Technological University of the Philippines  
 💭 Currently learning about mobile development and project management!
 
 
